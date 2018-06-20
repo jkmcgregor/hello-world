@@ -1,4 +1,4 @@
-###Just a place to keep some links for future reference
+### Just a place to keep some links for future reference
 
 * [Beginner Guide](https://guides.github.com/activities/hello-world/)
 * [GitHub Flow](https://guides.github.com/introduction/flow/)
